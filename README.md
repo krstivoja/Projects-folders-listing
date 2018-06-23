@@ -7,6 +7,8 @@ Nicely styled projects folders list with icon and option to open admin link if y
 * Generated CSS file
 
 ## Project Screenshoots
+[Login]: https://github.com/krstivoja/Projects-folders-listing/blob/master/Login.png "Login page"
+[Projects]: https://github.com/krstivoja/Projects-folders-listing/blob/master/Projects.png "Projects page"
 
 
 
