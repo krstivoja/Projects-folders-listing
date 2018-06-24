@@ -83,7 +83,7 @@
 			<input class="button" type="submit" name="submit_pass" value="Login">
 		</div>
 		<p><font style="color:red;"><?php echo $error;?></font></p>
-		<p> This is Capture Connect Media developers space. If you need more information folow <a style="word-break: " href="http://captureconnectmedia.com/">this link.</a></p>
+        <p> This is optional information text. If you need more information about project owner folow <a style="word-break: " href="https://github.com/krstivoja/Projects-folders-listing">this link.</a></p>
  	</form>
 </div> 
 
