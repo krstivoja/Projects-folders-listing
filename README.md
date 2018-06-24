@@ -7,8 +7,9 @@ Nicely styled projects folders list with icon and option to open admin link if y
 * Generated CSS file
 
 ## Project Screenshoots
-![alt text](https://github.com/krstivoja/Projects-folders-listing/blob/master/Login.png "Login page")
-![alt text](https://github.com/krstivoja/Projects-folders-listing/blob/master/Projects.png "Projects page")
+![alt text](https://github.com/krstivoja/Projects-folders-listing/blob/master/Assets/Login.png "Login page")
+![alt text](https://github.com/krstivoja/Projects-folders-listing/blob/master/Assets/Project.png "Projects page")
+![alt text](https://github.com/krstivoja/Projects-folders-listing/blob/master/Assets/Project-hover.png "Projects page hover")
 
 
 ## Project password is "dev"
