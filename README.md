@@ -1,7 +1,7 @@
 # Projects folders listing
 Nicely styled projects folders list with icon and option to open admin link if you are using CMS. 
 
-I created this project to use it for personal use but fill free to use it for your needs as well. I didn't manage to find some clean and modern project lister that is mobile ready as well. That's why I created my own. Also what I found out that I'm typing /wp-admin a lot so I included that as well.
+I created this project as I could not find simple, modern and responsive project lister for localhost and server. That's why I created my own. What I also found is that I'm typing "/wp-admin/" a lot. That is covered with included "Login" link for each project in the projects list.
 
 **Project include 2 folders:**
 * One with login and one without login screen. Both have:
