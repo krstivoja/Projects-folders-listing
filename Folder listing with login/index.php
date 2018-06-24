@@ -4,7 +4,7 @@
         if(isset($_POST['submit_pass']) && $_POST['pass'])
             {
                 $pass=$_POST['pass'];
-                    if($pass=="ccdev")
+                    if($pass=="dev")
                         {
                             $_SESSION['password']=$pass;
                          }
