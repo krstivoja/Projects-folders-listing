@@ -24,12 +24,12 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"> 
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/krstivoja/Projects-folders-listing/a231b9d4/Assets/style.css">
 </head>
 
 <body>
 <?php   
-    if($_SESSION['password']=="ccdev") {   
+    if($_SESSION['password']=="dev") {   
  
         if ($handle = opendir('.')) {
             while (false !== ($file = readdir($handle))) {
