@@ -12,4 +12,4 @@ Nicely styled projects folders list with icon and option to open admin link if y
 
 
 ## Project password is "dev"
-You can change it in index.php file on line 7.
+You can change it in index.php file on lines 7 and 32.
