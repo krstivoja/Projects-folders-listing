@@ -7,15 +7,11 @@
 <body>
 
 <?php
-<<<<<<< HEAD
   $thelist = '';
-=======
   $thelist = "";
->>>>>>> fb74c863f1c4f7551fc1c7750312210c530e1605
   if ($handle = opendir('.')) {
     $ignoreList = array('cgi-bin', '.', '..', '._');
     while (false !== ($file = readdir($handle))) {
-<<<<<<< HEAD
       if (is_dir($file) && (!in_array($file, $ignoreList) and substr($file, 0, 1) != '.')) {
         if ($file == '.' || $file == '..') continue;
         $ext = pathinfo($file, PATHINFO_EXTENSION);
@@ -29,7 +25,6 @@
                   </span>
                   
               <a target="_blank" class="dir" href="'.$file.'">'.$file.'</a>
-=======
       if (is_dir($file)) {
         if ($file == '.' || $file == '..') continue;
         $ext = pathinfo($file, PATHINFO_EXTENSION);
@@ -43,16 +38,12 @@
                 </span>
                 
             <a target="_blank" class="dir" href="'.$file.'">'.$file.'</a>
->>>>>>> fb74c863f1c4f7551fc1c7750312210c530e1605
             </span>';
             if(file_exists($file.'/wp-load.php')){
               $thelist .= '<a target="_blank" class="admin" href="'.$file.'/wp-admin/">Login</a>';
             }
          $thelist .= '</li>';
-<<<<<<< HEAD
 
-=======
->>>>>>> fb74c863f1c4f7551fc1c7750312210c530e1605
       }
     }
     closedir($handle);
