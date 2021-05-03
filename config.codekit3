@@ -90,22 +90,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/Folder listing with login\/index.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Folder listing with login\/index.php",
-      "oF" : 0
-    },
-    "\/Folder listing\/index.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Folder listing\/index.php",
-      "oF" : 0
-    },
     "\/Login.png" : {
       "ft" : 32768,
       "iS" : 46454,
